@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-dark",
+  "version": "1.0.0",
+  "description": "Dark theme variables for bootstap 5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ova-studio/bootstrap-dark.git"
+  },
+  "author": "internet community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ova-studio/bootstrap-dark/issues"
+  },
+  "homepage": "https://github.com/ova-studio/bootstrap-dark#readme"
+}
