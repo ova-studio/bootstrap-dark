@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-dark",
+  "name": "@ova-studio/bootstrap-dark",
   "version": "1.0.0",
   "description": "Dark theme variables for bootstap 5",
   "repository": {
